@@ -1,5 +1,5 @@
 # FFC-
-FamilyFund Connect Codes
+FamilyFund Connect
 An idea for a family-centered financial platform allowing relatives worldwide to contribute financially and stay connected could stand out in a space where few formalized platforms specifically cater to family networks in this way. While platforms like GoFundMe and Kickstarter are popular for broad public fundraising, they lack features designed exclusively for family-centric financial support and connection.
 Existing family-funding approaches often take place through informal loans or equity agreements among friends and relatives, typically without dedicated platforms. Commonly, people pursue this as a flexible option due to lower interest rates, quicker funding, and personalized terms. However, this process can strain personal relationships if not properly managed through formal agreements and clear expectations.
 
